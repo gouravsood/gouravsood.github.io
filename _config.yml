@@ -77,6 +77,13 @@ coursera:
 
 #List of interesting Github repo/projects to include - optional
 github:
+ - gouravsood/gouravsood.github.io
+ - gouravsood/SpringSecurityThymeleafBootstrap
+ - gouravsood/SpringBootMongoDBCloud
+ - gouravsood/mule-secure-property-placeholder
+ - gouravsood/mule-vm-message-redelivery
+ - gouravsood/learning-neural-networks
+ - gouravsood/mdPickers
  - robhinds/learning-neural-networks
  - robhinds/akka-http-rest-api-sample
  - robhinds/twitter-sentiment-analysis
