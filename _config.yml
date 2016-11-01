@@ -1,7 +1,7 @@
 # Site settings
-title: Rob Hinds
-twitter_username: rob_hinds
-name: Rob Hinds
+title: Gourav Sood
+twitter_username: gouravsood
+name: Gourav Sood
 
 # Build settings
 markdown: kramdown
@@ -9,26 +9,30 @@ markdown: kramdown
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
- - title: Blog
-   url: http://automateddeveloper.blogspot.com/
  - title: GitHub
-   url: https://github.com/robhinds
+   url: https://github.com/gouravsood
  - title: StackOverflow
    url: http://stackoverflow.com/users/258813/rhinds
  - title: DZone
    url: https://dzone.com/users/899489/rhinds.html
  - title: LinkedIn
-   url: https://www.linkedin.com/pub/rob-hinds/21/361/3b1
+   url: https://au.linkedin.com/in/gouravsood
 
 #Any buzzword skills you want to include
 skills:
- - Groovy
+ - Salesforce
+ - Force.com
+ - Apex/Visualforce
+ - Mulesoft ESB
+ - REST API First Development
+ - Visualforce
  - Spring MVC
  - Spring Boot
- - Gradle
- - Java
- - JPA
+ - Gradle/Maven
+ - Java/J2EE
+ - JPA/Hibernate
  - SQL
+ - MongoDB, NoSQL DB
  - REST
  - Tech Architecture
 
